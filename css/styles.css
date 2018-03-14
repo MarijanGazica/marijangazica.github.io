@@ -1,0 +1,19 @@
+#header {
+  height: 70px;
+  background-color: white;
+  line-height: 70px;
+}
+
+#logo {
+  height: 50px;
+  padding-top: 10px;
+  display: inline-table;
+}
+
+#header-text {
+  height: 70px;
+  font-size: 20px;
+  text-align: center;
+  color: darkblue;
+  display: inline-table;
+}
