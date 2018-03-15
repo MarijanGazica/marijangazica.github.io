@@ -2,12 +2,15 @@
   height: 70px;
   background-color: white;
   line-height: 70px;
+  width: 100%;
+  position: fixed;
 }
 
 #logo {
   height: 50px;
-  padding-top: 10px;
-  display: inline-table;
+  margin-top: 10px;
+  margin-right: 10px;
+  display: inline-block;
 }
 
 #header-text {
@@ -15,5 +18,5 @@
   font-size: 20px;
   text-align: center;
   color: darkblue;
-  display: inline-table;
+  display: inline-block;
 }
