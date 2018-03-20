@@ -1785,7 +1785,8 @@
 				display: flex;
 				flex-direction: column;
     		width: 100%;
-			}
+				align-items: center;
+	}
 
 		.main.fullscreen {
 			min-height: 100%;
@@ -2178,7 +2179,4 @@
 
 		.nav-previous, .nav-next {
 			display:none !important;
-		}
-		.main > .content > :last-child{
-			align-items: center;
 		}
