@@ -2180,3 +2180,7 @@
 		.nav-previous, .nav-next {
 			display:none !important;
 		}
+
+		#two .content p {
+			align-items:left;
+		}
