@@ -2193,3 +2193,24 @@
 		#two .link.wrap {
 			display: inline-block;
 		}
+
+		#work h2 {
+			font-size: 2em;
+		}
+
+		#work p {
+			font-size: 1em;
+			margin-bottom: 0;
+		}
+
+		@media screen and (max-width: 736px) {
+
+			#work h2 {
+				font-size: 1.2em;
+			}
+
+			#work p {
+				font-size: 0.75em;
+				margin-bottom: 0;
+			}
+	}
