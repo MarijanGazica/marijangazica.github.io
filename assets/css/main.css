@@ -2188,3 +2188,8 @@
 		#one .content p {
 			align-items:left;
 		}
+
+
+		#two .link.wrap {
+			display: inline-block;
+		}
